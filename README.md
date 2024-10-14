@@ -81,4 +81,4 @@
 | SNN-BA                | Supervised     | Real-time pattern recognition  | Energy efficient, real-time capability     | Difficult to train, high complexity     |
 
 ### Resource
-
+    - Ngc-learn’s documentation [https://ngc-learn.readthedocs.io/en/stable/]    
